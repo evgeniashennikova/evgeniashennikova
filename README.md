@@ -9,8 +9,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniashennikova&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniashennikova&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
 
-<img src='https://github.com/evgeniashennikova/evgeniashennikova/blob/33cbe5fc8873586cff7997c54f4bfad0371eeba7/github-contribution-grid-snake.svg'>
+<img src='https://github.com/evgeniashennikova/evgeniashennikova/blob/33cbe5fc8873586cff7997c54f4bfad0371eeba7/github-contribution-grid-snake.svg'>  
 
-![GitHub metrics](https://metrics.lecoq.io/evgeniashennikova)  
+
+![GitHub metrics](https://metrics.lecoq.io/evgeniashennikova)
 
 
