@@ -11,7 +11,6 @@
 
 <img src='https://github.com/evgeniashennikova/evgeniashennikova/blob/33cbe5fc8873586cff7997c54f4bfad0371eeba7/github-contribution-grid-snake.svg'>  
 
-
 ![GitHub metrics](https://metrics.lecoq.io/evgeniashennikova)
 
 
